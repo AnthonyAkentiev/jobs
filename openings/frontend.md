@@ -12,7 +12,7 @@ We are looking for a frontend and web3 wizard to work with us on the [Aragon dap
   - CSS, using preprocessors such as LESS or SASS
   - Service Workers, Animations, Device APIs...
 - Ability (and a track record) to ship **high quality, well crafted code**.
-- Being passionate about **decentralization** (having some concerns is totally fine, we all do).
+- Being passionate about **decentralization**.
 - Being an autonomous individual with a proactive attitude and a love for **time self-management** (We are focus-driven work, not hours-driven).
 
 ### Good to have
