@@ -1,4 +1,4 @@
-## Work conditions at Aragon
+## Work conditions at Aragon 🚀
 
 - **Fulltime** commitment. Side projects and open source are accepted (and encouraged).
 - Completely **remote** position, no relocation required. 
