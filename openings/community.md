@@ -16,13 +16,13 @@ We are looking for a talented Community Lead to work with us on [Aragon](https:/
 - Experience in contributing or managing **open source projects**.
 - Very good **written communication and content creation** skills.
 
-## How to apply
+### How to apply
 
 - Write an email with the following attachments plus any information you consider important to *tatu@aragon.one*, with the subject `Community Lead opening application`.
 
 - The things we are looking for in the application are:
 
-  - Open application with your involvement and experience in the Ethereum community
+  - Open application with your involvement and experience in the crypto community
   - Your CV
   - A _opinion editorial_ article on one of the following subjects (Maximum 1000 words):
     - Governance models
