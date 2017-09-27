@@ -42,6 +42,8 @@
     - Dribbble/Behance/portfolio for designers
     - CV/LinkedIn for other positions
     
+- We really value people that have previously **contributed to the project** in a voluntary manner, or that are **community members**.
+    
 More specific instructions for each position can be found in the openings.
 
 ![Our awesome team](https://user-images.githubusercontent.com/718208/30906534-68c1bf34-a378-11e7-8d8a-4021eaa42f90.jpg)
