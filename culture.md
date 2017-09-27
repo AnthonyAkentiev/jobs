@@ -7,3 +7,5 @@
 - We encourage team members to spend a substantial part of their paid work time on unrelated blockchain open source projects to speed up the development of the ecosystem.
 - We are **open source only**.
 - We are a technology company. Our focus is **product first**.
+
+### Did you like what you read? Go on and check our [openings](openings.md)
