@@ -1,6 +1,4 @@
-## Applying to Aragon
-
-### How to apply
+## Applying to Aragon 📝
 
 - Write an email with any info you consider relevant to *contact@aragon.one*, with the subject `${insert_position_here} opening application`.
 
