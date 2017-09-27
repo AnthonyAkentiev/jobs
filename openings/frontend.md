@@ -1,4 +1,4 @@
-## Frontend and web3 Developer opening at Aragon
+## Frontend and Web3 Developer opening at Aragon
 
 We are looking for a frontend and web3 wizard to work with us on the [Aragon dapp](https://github.com/aragon/aragon).
 
@@ -6,10 +6,11 @@ We are looking for a frontend and web3 wizard to work with us on the [Aragon dap
 
 - **Expert understanding** on:
   - ES6/ES7
-  - React/Vue
+  - Vue and Electron
   - Client-side storage
   - Resource optimization
   - CSS, using preprocessors such as LESS or SASS
+  - RxJS
   - Service Workers, Animations, Device APIs...
 - Ability (and a track record) to ship **high quality, well crafted code**.
 - Being passionate about **decentralization**.
