@@ -36,4 +36,4 @@
   - Cover letter with your involvement and experience in the crypto community
   - Your CV/LinkedIn
   
-### If you haven't, please [read more about our culture, work conditions, etc.](/)
+### If you haven't, please [read more about our culture, work conditions, etc.](/README.md)
