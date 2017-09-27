@@ -2,5 +2,6 @@
 
 [![Slack](https://aragon.chat/badge.svg)](https://aragon.chat)
 
-#### 🦋 For an overview of all the open positions, please visit the [Issues](https://github.com/aragon/jobs/issues) page.
-#### 📝 To apply follow the position's procedure, but please don't reply the issue. Rather [contact us](mailto:contact@aragon.one) directly.
+## If interested, check: [our culture](culture.md) → [openings](openings.md) → [how to apply](apply.md)
+
+![Our awesome team](https://user-images.githubusercontent.com/718208/30906534-68c1bf34-a378-11e7-8d8a-4021eaa42f90.jpg)
