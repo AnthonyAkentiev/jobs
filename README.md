@@ -21,6 +21,14 @@
 - Yearly bonus in ANT based on performance.
 
 
+## Openings 🙋🏾🙋‍♂️
+
+- [Operations/Executive Assistant](openings/exec_assistant.md)
+- [EVM/Solidity Engineer](openings/solidity.md)
+- [Frontend and web3 Developer](openings/frontend.md)
+- [Product Manager](openings/product_manager.md)
+
+
 ## Applying 📝
 
 - Write an email with any info you consider relevant to *contact@aragon.one*, with the subject `${insert_position_here} opening application`.
