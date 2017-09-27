@@ -30,3 +30,5 @@ We are looking for a talented Community Lead to work with us on [Aragon](https:/
     - Blockchain evolution
     - ICO models
     - Organizations in a decentralized world
+    
+### If you haven't, please [read more about our culture, work conditions, etc.](/README.md)
