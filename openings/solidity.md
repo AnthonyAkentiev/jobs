@@ -53,3 +53,5 @@ contract PayrollInterface {
   function setExchangeRate(address token, uint256 usdExchangeRate); // uses decimals from token
 }
 ```
+
+### If you haven't, please [read more about our culture, work conditions, etc.](/README.md)
