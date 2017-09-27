@@ -5,7 +5,7 @@ We are looking for an Ethereum wizard to work with us on [Aragon Core](https://g
 ### Requirements
 
 - **Expert understanding** of Ethereum and the inner workings of the EVM.
-- Ability (and a track record) to ship **high quality, well crafted code** running on Ethereum.
+- Provable ability to ship **high quality, well crafted code** running on Ethereum.
 - Strong **unit testing** culture.
 - Being passionate about **decentralization** (having some concerns is totally fine, we all do).
 - Being an autonomous individual with a proactive attitude and a love for **time self-management** (We are focus-driven work, not hours-driven).
