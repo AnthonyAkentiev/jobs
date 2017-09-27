@@ -1,5 +1,7 @@
 ## Ops/Executive Assistant opening at Aragon
 
+We are seeking an exceptional Executive Assistant responsible for building and maintaining internal processes, calendar management, coordinating team offsites and other day to day tasks.
+
 ### Responsabilities
 
 - Maintain calendar and schedule for the Project Lead, Tech Lead and other team members. Schedule internal and external meetings
