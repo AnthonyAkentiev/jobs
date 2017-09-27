@@ -9,12 +9,14 @@ We are looking for a talented Community Lead to work with us on [Aragon](https:/
 - **Written skills** for multiple reasons, interacting with people in chat context, **preparing publications & reporting** as well as the ability to **clearly communicate our/your message** to the target audience.
 - Being passionate about **decentralization** (having some concerns is totally fine, we all do).
 - You have at minimum some **basic understanding of how Ethereum and DApps work**, that would make the job a lot easier, you can get a deeper knowledge on the job, but already having the basic knowledge would go a long way.
+- Good written and spoken English, we are a distributed team and our consists of members from all across the world.
 
 ### Good to have
 
 - Interest and knowledge in **blockchain technoloy** & **cryptoeconomics**.
 - Experience in contributing or managing **open source projects**.
 - Very good **written communication and content creation** skills.
+- Fluent in English at a native speaker level
 
 ### How to apply
 
