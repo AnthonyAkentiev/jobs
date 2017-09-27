@@ -1,6 +1,6 @@
 ## Community Lead opening at Aragon
 
-We are looking for a talented Community Lead to work with us on [Aragon](https://aragon.one) and the [Aragon community](https://aragon.chat).
+We are looking for a talented Community Lead to work with us on [Aragon](https://aragon.one) and the [Aragon community](https://aragon.chat). You'll be working with Tatu and the team to engage and communicate with the community, including content creation.
 
 ### Requirements
 
