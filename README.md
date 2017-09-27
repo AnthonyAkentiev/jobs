@@ -14,11 +14,12 @@
 
 ## Work conditions 🚀
 
-- **Fulltime** commitment. Side projects and open source are accepted (and encouraged).
+- **Full time** commitment. Side projects and open source are accepted (and encouraged).
 - Completely **remote** position, no relocation required. 
-- Very competitive and negotiable compensation.
+- Very competitive compensation.
 - You decide **how to allocate your salary in fiat, ETH or ANT**.
 - Yearly bonus in ANT based on performance.
+- We empower autonomous workers with a proactive attitude and a love for time self-management.
 
 
 ## Openings 🙋🏾🙋‍♂️
@@ -43,6 +44,7 @@
     - CV/LinkedIn for other positions
     
 - We really value people that have previously **contributed to the project** in a voluntary manner, or that are **community members**.
+- We value what you can do and your attitude doing it, not where/whether you went to school or college.
     
 More specific instructions for each position can be found in the openings.
 
