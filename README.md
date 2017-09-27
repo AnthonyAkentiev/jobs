@@ -41,6 +41,8 @@
     - GitHub for developers. Since we are open source only, we require applicants for developer positions to have a very active and healthy GitHub profile.
     - Dribbble/Behance/portfolio for designers
     - CV/LinkedIn for other positions
+    
+More specific instructions for each position can be found in the openings.
 
 ## If interested, check: [our culture](culture.md) → [openings](openings.md) → [how to apply](apply.md)
 
