@@ -6,7 +6,7 @@ We are looking for a product manager to work on the [Aragon dapp](https://github
 
 - Technical expertise to understand what's happening under the hood.
 - Experience or very strong interest in managing remote teams.
-- Previous experience working in remote teams, or managing remote teams.
+- Previous experience working in remote teams.
 - Very good **written communication** skills.
 - Being passionate about **decentralization**.
 - Being an autonomous individual with a proactive attitude and a love for **time self-management** (We are focus-driven work, not hours-driven).
