@@ -13,7 +13,7 @@ We are looking for a talented Community Lead to work with us on [Aragon](https:/
 
 ### Good to have
 
-- Interest and knowledge in **blockchain technoloy** & **cryptoeconomics**.
+- Interest and knowledge in **blockchain technology** & **cryptoeconomics**.
 - Experience in contributing or managing **open source projects**.
 - Very good **written communication and content creation** skills.
 - Fluent in English at a native speaker level
