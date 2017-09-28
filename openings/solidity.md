@@ -27,8 +27,8 @@ We are looking for an Ethereum wizard to work with us on [Aragon Core](https://g
 - The code we are looking for could be comformant to the following interface. Feel free to remove/add any functions as you see fit:
 
 ```
-// For the sake of simplicity lets asume USD is a ERC20 token
-// Also lets asume we can 100% trust the exchange rate oracle
+// For the sake of simplicity lets assume USD is a ERC20 token
+// Also lets assume we can 100% trust the exchange rate oracle
 contract PayrollInterface {
   /* OWNER ONLY */
   function addEmployee(address accountAddress, address[] allowedTokens, uint256 initialYearlyUSDSalary);
